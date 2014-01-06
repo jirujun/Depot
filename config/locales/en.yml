@@ -3,3 +3,9 @@
 
 en:
   hello: "Hello world"
+  layouts:
+application:
+title: "Pragmatic Bookshelf"
+home: "Home"
+
+
