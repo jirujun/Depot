@@ -14,7 +14,10 @@
  *= require_self
  *= require_tree .
  */
- 
+.locale {
+float: right;
+margin: -0.25em 0.1em;
+} 
 /* START_HIGHLIGHT */
 #banner {
   background: #9c9;
